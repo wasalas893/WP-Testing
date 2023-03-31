@@ -4,7 +4,7 @@
  * Plugin Name: Cool Plugin
  * Plugin URI: https://github.com/wppusher/Cool-Plugin
  * Description: OMG this plugin is so cool.
- * Version: 5.9
+ * Version: 5.908
  * Author: WP Pusher
  * Author URI: http://wppusher.com
  * License: GNU GENERAL PUBLIC LICENSE
